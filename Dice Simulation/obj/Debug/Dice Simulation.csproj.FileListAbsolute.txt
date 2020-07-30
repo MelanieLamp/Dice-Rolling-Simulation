@@ -1,0 +1,51 @@
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\bin\Debug\Dice Simulation.exe.config
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\bin\Debug\Dice Simulation.exe
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\bin\Debug\Dice Simulation.pdb
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice_Simulation.Dice.resources
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice_Simulation.Properties.Resources.resources
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice_Simulation.Splash.resources
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice Simulation.csproj.GenerateResource.Cache
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice Simulation.csproj.CoreCompileInputs.cache
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice Simulation.exe
+C:\ECC\218\Labs\Lab 5\Dice Simulation\Dice Simulation\obj\Debug\Dice Simulation.pdb
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe.config
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.pdb
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csprojResolveAssemblyReference.cache
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Dice.resources
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Properties.Resources.resources
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.GenerateResource.Cache
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.CoreCompileInputs.cache
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.exe
+C:\ECC\218\Examples\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.pdb
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe.config
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.pdb
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csprojResolveAssemblyReference.cache
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Dice.resources
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Properties.Resources.resources
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.GenerateResource.Cache
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.CoreCompileInputs.cache
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.exe
+\\zeus\profile$\955343255\Desktop\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.pdb
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe.config
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.pdb
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Dice.resources
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Properties.Resources.resources
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.exe
+C:\Users\Mark\Desktop\Projects\Dice Simulation Start Up\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.pdb
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe.config
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.exe
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\bin\Debug\Dice Simulation.pdb
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Dice.resources
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.Properties.Resources.resources
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.exe
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice Simulation.pdb
+C:\Users\Mark\Desktop\Projects\Dice Simulation\Dice Simulation Start Up\Dice Simulation\obj\Debug\Dice_Simulation.AboutForm.resources
