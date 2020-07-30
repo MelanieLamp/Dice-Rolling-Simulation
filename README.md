@@ -10,4 +10,4 @@ Output - Frequencies and percents of each face rolled.
 ![Dice Simulation](https://imgur.com/vDSq3Xm.jpg)
 
 ## Acknowledgements
-This project was made possible from the lectures given by Niko Cuvileski at Edmonds Community College.<br/> This course inspired me to build upon my knowledge of C++ and dive further <br/> into software engineering. By getting hands-on experience with front-end and back-end in C# development. 
+This project was made possible from the lectures given by Niko Cuvileski at Edmonds Community College.<br/> This course inspired me to build upon my knowledge of C++ and dive further <br/> into software engineering. By getting hands-on experience with front-end C# development. 
