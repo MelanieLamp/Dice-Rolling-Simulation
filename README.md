@@ -1,5 +1,5 @@
 # Dice-Simulator
-This application simulates the probability rolling of two six-sided dice. <br/>It calculates and displays the frequencies and percents of each die after each roll. 
+This application simulates the probability rolling of two six-sided dice. <br/>It calculates and displays the frequencies and percentages of each die after each roll. 
 <br/>A die class is used to simulate random roll of the dice and the images of the <br/> corresponding dice are shown. 
 
 ![Dice Simulation](https://i.imgur.com/917Kc7N.jpg)
