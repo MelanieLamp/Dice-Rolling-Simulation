@@ -1,5 +1,5 @@
 # Dice-Simulator
-A website application GUI that was written in C# using Visual Studio Code. The program simulates the probability rolling of two six-sided dice. It calculates and displays the frequencies and percentages of each die after each roll. A die class is used to simulate random roll of the dice and the images of the corresponding dice are shown.
+A website application with a user interface that was written in C# using Visual Studio Code. The program simulates the probability rolling of two six-sided dice. It calculates and displays the frequencies and percentages of each die after each roll. A die class is used to simulate random roll of the dice and the images of the corresponding dice are shown.
 
 ![Dice Simulation](https://i.imgur.com/917Kc7N.jpg)
 
