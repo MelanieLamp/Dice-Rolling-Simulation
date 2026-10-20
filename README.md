@@ -27,7 +27,7 @@ The application utilizes advanced task management to process rolling datasets, c
 ### 1. Main Dashboard & Configuration
 The main window includes a dedicated **File** and **Help** menu bar, input selectors, and application control actions.
 <br>
-
+<br>
 ![Dice Simulation](https://i.imgur.com/917Kc7N.jpg)
 
 <br>
@@ -54,7 +54,6 @@ The project adheres to clean Object-Oriented Programming (OOP) principles:
 <br>
 
 ## ⚙️ Getting Started
-<br>
 ### Prerequisites
 * [.NET SDK](https://microsoft.com) (Version 6.0 or higher recommended)
 * [Visual Studio Code](https://visualstudio.com)
@@ -74,7 +73,6 @@ The project adheres to clean Object-Oriented Programming (OOP) principles:
    ```bash
    dotnet run
    ```
-<br>
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <br>
