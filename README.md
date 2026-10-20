@@ -30,7 +30,6 @@ The main window includes a dedicated **File** and **Help** menu bar, input selec
 <br>
 ![Dice Simulation](https://i.imgur.com/917Kc7N.jpg)
 
-<br>
 * **Input Selection:** Choose the number of simulation rolls using one of 5 distinct radio buttons.
 * **Control Actions:** Quickly trigger actions using the **Roll**, **Clear Form**, **Print Form**, or **Quit Program** buttons.
 <br>
