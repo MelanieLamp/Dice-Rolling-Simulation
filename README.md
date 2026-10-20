@@ -1,12 +1,80 @@
-# Dice-Rolling-Simulator
-A website application with a user interface that was written in C# using Visual Studio Code. The program simulates the probability rolling of two six-sided dice. It calculates and displays the frequencies and percentages of each die after each roll. A die class is used to simulate random roll of the dice and the images of the corresponding dice are shown.
+# Dice Simulator
+
+A modern, multi-window **C# Windows Forms web application** that simulates and visualizes the probability of rolling two six-sided dice. 
+
+The application utilizes advanced task management to process rolling datasets, calculating and rendering real-time frequencies and percentages for each die face alongside a dynamic graphical user interface.
+<br>
+
+## 🚀 Features
+
+* **Dynamic Simulation:** Simulates an arbitrary number of dice rolls based on user input.
+* **Real-Time Data Analytics:** Computes and lists precise frequency counts and percentages for each face.
+* **Interactive UI:** Leverages multiple Windows Forms, custom menus, and radio-button inputs.
+* **Visual Representation:** Dynamically updates graphical dice face images on the frontend after each roll.
+* **Asynchronous Processing:** Uses robust task management to handle computations seamlessly.
+<br>
+
+## 🛠️ Tech Stack
+
+* **Language:** C#
+* **Framework:** .NET / Windows Forms
+* **IDE:** Visual Studio Code
+* **Core Libraries:** `System.Collections.Generic`, `System.Threading.Tasks`
+<br>
+
+## 📸 User Interface
+
+### 1. Main Dashboard & Configuration
+The main window includes a dedicated **File** and **Help** menu bar, input selectors, and application control actions.
+<br>
 
 ![Dice Simulation](https://i.imgur.com/917Kc7N.jpg)
 
-Input - Number of times to roll the two dice.<br/>
-Output - Frequencies and percents of each face rolled.
+<br>
+* **Input Selection:** Choose the number of simulation rolls using one of 5 distinct radio buttons.
+* **Control Actions:** Quickly trigger actions using the **Roll**, **Clear Form**, **Print Form**, or **Quit Program** buttons.
+<br>
+
+### 2. Live Simulation & Analytical Output
+Once executed, the application updates the visual dice graphics and prints an analytical breakdown to the results console.
+<br>
 
 ![Dice Simulation](https://imgur.com/vDSq3Xm.jpg)
 
-## Acknowledgements
-This project was made possible from the lectures given by Niko Cuvileski at Edmonds Community College.<br/> This course inspired me to build upon my knowledge of C++ and dive further <br/> into software engineering. By getting hands-on experience with front-end C# development. 
+* **Visual Feedback:** A pair of dice graphics change faces in real-time to match the physical simulation results.
+* **Data Breakdown:** Generates a structured textual output mapping **Faces**, **Frequencies**, and **Percentages** rolled.
+<br>
+
+## 🧱 Core Architecture
+
+The project adheres to clean Object-Oriented Programming (OOP) principles:
+* **`Die` Class:** Encapsulates the state and behavior of an individual six-sided die, generating random values using secure distribution algorithms.
+* **Collections Framework:** Organizes and aggregates simulation datasets efficiently.
+* **Threading Framework:** Offloads simulation calculations to background tasks, keeping the Windows Forms UI smooth and responsive.
+<br>
+
+## ⚙️ Getting Started
+<br>
+### Prerequisites
+* [.NET SDK](https://microsoft.com) (Version 6.0 or higher recommended)
+* [Visual Studio Code](https://visualstudio.com)
+* [C# Extension for VS Code](https://visualstudio.com)
+
+### Installation & Execution
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   cd dice-simulator
+   ```
+2. **Restore dependencies:**
+   ```bash
+   dotnet restore
+   ```
+3. **Run the application:**
+   ```bash
+   dotnet run
+   ```
+<br>
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
+<br>
