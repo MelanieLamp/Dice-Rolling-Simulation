@@ -1,4 +1,6 @@
 # Dice Simulator
+<br>
+![Dice Simulation](https://imgur.com/vDSq3Xm.jpg)
 
 A C# Windows Forms application built in VS Code that simulates rolling two six-sided dice over user-defined frequencies. It leverages asynchronous threading and object-oriented `Die` classes to instantly calculate roll analytics (faces, counts, percentages) while dynamically updating visual dice graphics on the user interface.
 <br>
