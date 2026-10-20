@@ -2,7 +2,7 @@
 
 A modern, multi-window **C# Windows Forms web application** that simulates and visualizes the probability of rolling two six-sided dice. 
 
-The application utilizes advanced task management to process rolling datasets, calculating and rendering real-time frequencies and percentages for each die face alongside a dynamic graphical user interface.
+A C# Windows Forms application built in VS Code that simulates rolling two six-sided dice over user-defined frequencies. It leverages asynchronous threading and object-oriented `Die` classes to instantly calculate roll analytics (faces, counts, percentages) while dynamically updating visual dice graphics on the user interface.
 <br>
 
 ## 🚀 Features
